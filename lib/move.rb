@@ -13,7 +13,5 @@ def input_to_index(input)
 end
 
 def move(board, position, character="X")
-  character == "X"
-else character == "O"
-  end
+
 end
