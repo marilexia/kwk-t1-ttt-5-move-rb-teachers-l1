@@ -12,7 +12,7 @@ def input_to_index(input)
   input.to_i
 end
 
-def move(board, position, character)
+def move(board, position, character="X")
   character == "X"
 else character == "O"
   end
