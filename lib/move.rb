@@ -15,3 +15,5 @@ end
 def move(board, index, character)
   character == "X"
 else character == "O"
+  end
+end
